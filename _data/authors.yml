@@ -1,0 +1,10 @@
+rosikm:
+  name: Michal Rosik
+  url: https://github.com/rosikm # Personal website or GitHub profile
+  email: michalrosik@microsoft.com # Optional
+  avatar: https://github.com/rosikm.png # Optional: path to avatar image
+
+roels:
+  name: Roel Schenk
+  email: roelschenk@microsoft.com # Optional
+  avatar: https://github.com/roelzz.png # Optional: path to avatar image
