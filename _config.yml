@@ -16,10 +16,9 @@ timezone:
 
 title: Mine the Gap
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Everything You Always Wanted to Know About Microsoft Process Intelligence But Were Afraid to Ask
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: Tips and tricks, technical examples and best practices from Power Automate Process Mining product team and Microsoft Power CAT team
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -34,8 +33,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Microsoft Process Intelligence
+  email: michal.rosik@microsoft.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
@@ -102,7 +101,7 @@ avatar: /assets/img/mine-the-gap-transparent.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: /assets/img/mine-the-gap-transparent.png # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
