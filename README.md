@@ -86,6 +86,10 @@ This repository is automatically updated with new releases from the theme reposi
 
 This work is published under [MIT][mit] License.
 
+[Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct)
+[Trademark nortice](https://docs.opensource.microsoft.com/content/releasing/index.html)
+[Security Reporting Instructions](https://docs.opensource.microsoft.com/content/releasing/security.html)
+
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [CD]: https://en.wikipedia.org/wiki/Continuous_deployment
