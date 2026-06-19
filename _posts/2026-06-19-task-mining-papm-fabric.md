@@ -2,7 +2,7 @@
 layout: post
 title: "Unlocking the Full Potential of Task Mining Recordings with Power Automate Process Mining"
 date: 2026-06-19
-categories: [task-mining, process-mining]
+categories: [task-mining]
 tags: [power-automate, dataverse, fabric, papm, process-intelligence, process-mining, analytics]
 description: "Learn how to leverage Power Automate Task Mining recordings with Process Mining to unlock rich process intelligence, variant analysis, and custom KPIs through Fabric integration."
 author: rosikm

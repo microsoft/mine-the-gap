@@ -3,7 +3,7 @@ layout: post
 title: "Making PAPM Custom Metrics Feel Conversational with an LLM-Ready Spec"
 date: 2026-06-19
 categories: [process-mining, copilot, ai]
-tags: [papm, custom-metrics, llm, github-copilot, claude, vscode, process-intelligence, formulas]
+tags: [papm, custom-metrics, process-intelligence, kpi]
 description: "A practical guide to using the PAPM CM LLM-Ready Documentation Package to turn natural language into valid Power Automate Process Mining custom metrics."
 author: rosikm
 image:
@@ -13,7 +13,7 @@ published: true
 mermaid: false
 ---
 
-## The Problem: Custom Metrics Are Powerful, but Not Friendly
+## The Problem: Custom Metrics Are Powerful, but Not Too Friendly
 
 Power Automate Process Mining custom metrics are one of the most useful parts of PAPM, but they are also one of the easiest places to get stuck. The syntax is precise, the function set is broad, and the validation rules are unforgiving. That makes even simple questions feel harder than they should be:
 
