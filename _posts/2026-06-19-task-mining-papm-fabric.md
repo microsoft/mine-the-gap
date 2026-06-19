@@ -8,15 +8,9 @@ description: "Learn how to leverage Power Automate Task Mining recordings with P
 author: rosikm
 image:
   path: /assets/posts/2026-06-19-task-mining-papm-fabric/recording-activities-detail.png
-  alt: "Task Mining process with multiple recordings"
+  alt: "Recording with identified activities"
 published: true
 mermaid: false
----
-
-# Unlocking the Full Potential of Task Mining Recordings with Power Automate Process Mining
-
-*By Michal Rosik | Product Architect, Power Automate Process Mining*
-
 ---
 
 ## The Problem: Great Data, Limited Analysis
