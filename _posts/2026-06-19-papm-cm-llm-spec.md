@@ -2,8 +2,8 @@
 layout: post
 title: "Making PAPM Custom Metrics Feel Conversational with an LLM-Ready Spec"
 date: 2026-06-19
-categories: [process-mining, copilot, ai]
-tags: [papm, custom-metrics, process-intelligence, kpi]
+categories: [process-mining, ai]
+tags: [papm, custom-metrics, process-intelligence, kpi, agents, ai]
 description: "A practical guide to using the PAPM CM LLM-Ready Documentation Package to turn natural language into valid Power Automate Process Mining custom metrics."
 author: rosikm
 image:
